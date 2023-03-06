@@ -11,7 +11,7 @@ int main()
 
 	std::cout << "Hello";
 
-	//function(a);
+	function(a);
 
 
 
